@@ -2,22 +2,27 @@
 <h3 align="center">Full Stack Software Developer</h3>
 
 <p align="center">
-  <a href="mailto:hossamefricha5@gmail.com">hossamefricha5@gmail.com</a> •
-  Casablanca, Morocco •
-  <a href="https://www.linkedin.com/in/houssam-fericha">LinkedIn</a>
+  📧 <a href="mailto:hossamefricha5@gmail.com">hossamefricha5@gmail.com</a> •
+  📍 Casablanca, Morocco •
+  💼 <a href="https://www.linkedin.com/in/houssam-fericha">LinkedIn</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=houssam-fericha&style=flat-square&color=blue" alt="profile views"/>
 </p>
 
 ---
 
-## Professional Summary
+## 👨‍💻 Professional Summary
 
-Full Stack Software Developer with a strong academic background in **Computer Science** and hands-on experience in **designing, developing, and deploying scalable web and SaaS applications**.  
-Proficient across the full development lifecycle, from **UI/UX implementation** to **robust backend architectures** and **containerized deployments**.  
-Experienced in **Agile environments**, professional agencies, and enterprise internships, with a strong focus on code quality, performance, and maintainability.
+Full Stack Software Developer with a strong academic background in **Computer Science** and hands-on experience in **designing, developing, and deploying scalable web and SaaS applications**.
+
+I specialize in building **modern user interfaces**, **robust backend systems**, and **production-ready deployments**, with a strong focus on **performance, clean architecture, and maintainability**.  
+Experienced in **Agile environments**, digital agencies, and enterprise internships.
 
 ---
 
-## Education
+## 🎓 Education
 
 **Bachelor’s Degree in Computer Science (Software Development)**  
 *MundiaPolis University* — 2024–2025
@@ -30,92 +35,119 @@ Experienced in **Agile environments**, professional agencies, and enterprise int
 
 ---
 
-## Professional Experience
+## 💼 Professional Experience
 
-### Full Stack Developer — **DOPED CLUB Agency**  
+### 🚀 Full Stack Developer — **DOPED CLUB Agency**  
 *Internship | Apr 2025 – Jul 2025*
 
-- Designed and developed a complete **SaaS platform (Doped Manager)** for budget, stock, and absence management
-- Implemented containerized deployments using **Docker**
-- Managed version control with **GitHub**
-- Worked within an **Agile workflow**, using **Jira** for task and sprint management
+- Designed and developed a complete **SaaS platform (Doped Manager)** for:
+  - Budget management
+  - Stock tracking
+  - Absence & staff management
+- Implemented **Docker-based deployments**
+- Managed source control using **GitHub**
+- Worked in an **Agile/Scrum workflow** using **Jira**
 
 ---
 
-### Software Engineering Intern — **INVOLYS**  
+### 🏢 Software Engineering Intern — **INVOLYS**  
 *Jun 2024 – Jul 2024*
 
-- Intensive professional training in **.NET and Angular**
-- Contributed to real-world enterprise applications
-- Gained exposure to enterprise architecture and development standards
+- Intensive professional training in **.NET & Angular**
+- Contributed to **enterprise-grade applications**
+- Learned **enterprise architecture, coding standards, and best practices**
 
 ---
 
-### Full Stack Developer — **BEOM Agency**  
+### 🎨 Full Stack Developer — **BEOM Agency**  
 *Oct 2023 – Mar 2024*
 
-- Developed showcase websites, e-commerce platforms, and SaaS solutions
-- Built modern, responsive, and user-focused interfaces
-- Deployed applications using **cPanel, hPanel, and Docker**
-- Collaborated closely with designers and developers in an Agile team
+- Built **showcase websites, e-commerce platforms, and SaaS solutions**
+- Developed **responsive, modern, user-centric interfaces**
+- Deployed applications via **cPanel, hPanel, and Docker**
+- Collaborated with designers and developers in an Agile team
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
-### Frontend Development
-<p>
+### 🎨 Frontend Development
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
 </p>
 
-### Backend Development
-<p>
+---
+
+### ⚙️ Backend Development
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-</p>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/>
+</p>
 
-### Databases
-- MySQL  
-- MongoDB  
+---
 
-### DevOps & Cloud
-- Docker  
-- Git, GitHub, GitLab  
-- Microsoft Azure  
-- CI/CD fundamentals  
+### 🗄️ Databases
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+</p>
 
-### CMS
-- WordPress  
+---
 
-### Project Management
+### ☁️ DevOps & Cloud
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
+</p>
+
+---
+
+### 🧩 CMS
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40"/>
+</p>
+
+---
+
+### 📊 Project Management
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40"/>
+</p>
+
 - Agile / Scrum  
 - Jira Software  
-- GANTT  
+- Gantt Planning  
 
 ---
 
-## Core Competencies
+## 💡 Core Competencies
 
-- Full stack application development
-- SaaS architecture and deployment
-- Clean code and maintainable systems
-- UI/UX implementation
-- Team collaboration and communication
-- Time management and deadline-driven delivery
+- Full Stack Web Development
+- SaaS Architecture & Deployment
+- REST APIs & Backend Systems
+- Clean Code & Scalable Architecture
+- UI/UX Implementation
+- Team Collaboration & Communication
+- Time Management & Delivery
 
 ---
 
-## Certifications
+## 📜 Certifications
 
 - **AWS Academy Graduate – Cloud Foundations**  
   Amazon Web Services — March 2025
@@ -125,7 +157,7 @@ Experienced in **Agile environments**, professional agencies, and enterprise int
 
 ---
 
-## Languages
+## 🌍 Languages
 
 - Arabic — Native  
 - French — Proficient  
@@ -133,12 +165,12 @@ Experienced in **Agile environments**, professional agencies, and enterprise int
 
 ---
 
-## GitHub Focus
+## 🚀 GitHub Focus
 
-- Scalable web applications and SaaS platforms  
-- Modern JavaScript frameworks  
-- Backend APIs and system design  
-- Clean architecture and best practices  
+- Scalable Web & SaaS Applications
+- Modern JavaScript Frameworks
+- Backend APIs & System Design
+- Clean Architecture & Best Practices
 
 ---
 
