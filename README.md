@@ -4,7 +4,7 @@
 <p align="center">
   <a href="mailto:hossamefricha5@gmail.com">hossamefricha5@gmail.com</a> •
   Casablanca, Morocco •
-  <a href="https://www.linkedin.com/in/houssam-fericha">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/houssam-fericha-95a26128b">LinkedIn</a>
 </p>
 
 ---
