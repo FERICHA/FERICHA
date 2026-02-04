@@ -79,7 +79,7 @@ Experienced in **Agile environments**, digital agencies, and enterprise internsh
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
-  - Tailwind css
+  <img src="https://devonblog.com/wp-content/uploads/2022/06/tailwind-thumb.jpg" width="40"/>
 </p>
 
 ---
