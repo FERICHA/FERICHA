@@ -66,7 +66,7 @@ Experienced in **Agile environments**, professional agencies, and enterprise int
 ### Frontend Development
 - HTML, CSS, JavaScript  
 - React.js, Next.js  
-- Bootstrap 5  
+- Bootstrap, Tailwind CSS
 
 ### Backend Development
 - PHP, Node.js, Java, Python  
