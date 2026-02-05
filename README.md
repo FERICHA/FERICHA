@@ -64,41 +64,41 @@ Experienced in **Agile environments**, professional agencies, and enterprise int
 ## Technical Skills
 
 ### Frontend Development
-<span style="background-color: #3498db; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.9em; margin: 2px; display: inline-block;">HTML</span>
-<span style="background-color: #3498db; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.9em; margin: 2px; display: inline-block;">CSS</span>
-<span style="background-color: #3498db; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.9em; margin: 2px; display: inline-block;">JavaScript</span>
-<span style="background-color: #2980b9; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.9em; margin: 2px; display: inline-block;">React.js</span>
-<span style="background-color: #2980b9; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.9em; margin: 2px; display: inline-block;">Next.js</span>
-<span style="background-color: #2980b9; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.9em; margin: 2px; display: inline-block;">Bootstrap 5</span>
+<span style="background-color: #4a6fa5; color: white; padding: 3px 10px; border-radius: 15px; font-size: 0.85em; margin: 3px; display: inline-block;">HTML</span>
+<span style="background-color: #4a6fa5; color: white; padding: 3px 10px; border-radius: 15px; font-size: 0.85em; margin: 3px; display: inline-block;">CSS</span>
+<span style="background-color: #4a6fa5; color: white; padding: 3px 10px; border-radius: 15px; font-size: 0.85em; margin: 3px; display: inline-block;">JavaScript</span>
+<span style="background-color: #4a6fa5; color: white; padding: 3px 10px; border-radius: 15px; font-size: 0.85em; margin: 3px; display: inline-block;">React.js</span>
+<span style="background-color: #4a6fa5; color: white; padding: 3px 10px; border-radius: 15px; font-size: 0.85em; margin: 3px; display: inline-block;">Next.js</span>
+<span style="background-color: #4a6fa5; color: white; padding: 3px 10px; border-radius: 15px; font-size: 0.85em; margin: 3px; display: inline-block;">Bootstrap 5</span>
 
 ### Backend Development
-<span style="background-color: #2ecc71; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.9em; margin: 2px; display: inline-block;">PHP</span>
-<span style="background-color: #2ecc71; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.9em; margin: 2px; display: inline-block;">Node.js</span>
-<span style="background-color: #2ecc71; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.9em; margin: 2px; display: inline-block;">Java</span>
-<span style="background-color: #2ecc71; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.9em; margin: 2px; display: inline-block;">Python</span>
-<span style="background-color: #27ae60; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.9em; margin: 2px; display: inline-block;">Laravel</span>
-<span style="background-color: #27ae60; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.9em; margin: 2px; display: inline-block;">Spring Boot</span>
-<span style="background-color: #27ae60; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.9em; margin: 2px; display: inline-block;">Express.js</span>
+<span style="background-color: #166088; color: white; padding: 3px 10px; border-radius: 15px; font-size: 0.85em; margin: 3px; display: inline-block;">PHP</span>
+<span style="background-color: #166088; color: white; padding: 3px 10px; border-radius: 15px; font-size: 0.85em; margin: 3px; display: inline-block;">Node.js</span>
+<span style="background-color: #166088; color: white; padding: 3px 10px; border-radius: 15px; font-size: 0.85em; margin: 3px; display: inline-block;">Java</span>
+<span style="background-color: #166088; color: white; padding: 3px 10px; border-radius: 15px; font-size: 0.85em; margin: 3px; display: inline-block;">Python</span>
+<span style="background-color: #166088; color: white; padding: 3px 10px; border-radius: 15px; font-size: 0.85em; margin: 3px; display: inline-block;">Laravel</span>
+<span style="background-color: #166088; color: white; padding: 3px 10px; border-radius: 15px; font-size: 0.85em; margin: 3px; display: inline-block;">Spring Boot</span>
+<span style="background-color: #166088; color: white; padding: 3px 10px; border-radius: 15px; font-size: 0.85em; margin: 3px; display: inline-block;">Express.js</span>
 
 ### Databases
-<span style="background-color: #9b59b6; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.9em; margin: 2px; display: inline-block;">MySQL</span>
-<span style="background-color: #9b59b6; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.9em; margin: 2px; display: inline-block;">MongoDB</span>
+<span style="background-color: #4d7ea8; color: white; padding: 3px 10px; border-radius: 15px; font-size: 0.85em; margin: 3px; display: inline-block;">MySQL</span>
+<span style="background-color: #4d7ea8; color: white; padding: 3px 10px; border-radius: 15px; font-size: 0.85em; margin: 3px; display: inline-block;">MongoDB</span>
 
 ### DevOps & Cloud
-<span style="background-color: #e74c3c; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.9em; margin: 2px; display: inline-block;">Docker</span>
-<span style="background-color: #e74c3c; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.9em; margin: 2px; display: inline-block;">Git</span>
-<span style="background-color: #e74c3c; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.9em; margin: 2px; display: inline-block;">GitHub</span>
-<span style="background-color: #e74c3c; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.9em; margin: 2px; display: inline-block;">GitLab</span>
-<span style="background-color: #c0392b; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.9em; margin: 2px; display: inline-block;">Microsoft Azure</span>
-<span style="background-color: #c0392b; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.9em; margin: 2px; display: inline-block;">CI/CD</span>
+<span style="background-color: #6a8eae; color: white; padding: 3px 10px; border-radius: 15px; font-size: 0.85em; margin: 3px; display: inline-block;">Docker</span>
+<span style="background-color: #6a8eae; color: white; padding: 3px 10px; border-radius: 15px; font-size: 0.85em; margin: 3px; display: inline-block;">Git</span>
+<span style="background-color: #6a8eae; color: white; padding: 3px 10px; border-radius: 15px; font-size: 0.85em; margin: 3px; display: inline-block;">GitHub</span>
+<span style="background-color: #6a8eae; color: white; padding: 3px 10px; border-radius: 15px; font-size: 0.85em; margin: 3px; display: inline-block;">GitLab</span>
+<span style="background-color: #6a8eae; color: white; padding: 3px 10px; border-radius: 15px; font-size: 0.85em; margin: 3px; display: inline-block;">Microsoft Azure</span>
+<span style="background-color: #6a8eae; color: white; padding: 3px 10px; border-radius: 15px; font-size: 0.85em; margin: 3px; display: inline-block;">CI/CD</span>
 
 ### CMS
-<span style="background-color: #f39c12; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.9em; margin: 2px; display: inline-block;">WordPress</span>
+<span style="background-color: #9cb4cc; color: white; padding: 3px 10px; border-radius: 15px; font-size: 0.85em; margin: 3px; display: inline-block;">WordPress</span>
 
 ### Project Management
-<span style="background-color: #34495e; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.9em; margin: 2px; display: inline-block;">Agile / Scrum</span>
-<span style="background-color: #34495e; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.9em; margin: 2px; display: inline-block;">Jira Software</span>
-<span style="background-color: #34495e; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.9em; margin: 2px; display: inline-block;">GANTT</span>
+<span style="background-color: #8ba6c9; color: white; padding: 3px 10px; border-radius: 15px; font-size: 0.85em; margin: 3px; display: inline-block;">Agile / Scrum</span>
+<span style="background-color: #8ba6c9; color: white; padding: 3px 10px; border-radius: 15px; font-size: 0.85em; margin: 3px; display: inline-block;">Jira Software</span>
+<span style="background-color: #8ba6c9; color: white; padding: 3px 10px; border-radius: 15px; font-size: 0.85em; margin: 3px; display: inline-block;">GANTT</span>
 
 ---
 
